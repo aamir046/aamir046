@@ -85,7 +85,6 @@ _June 2014 - July 2018_
 
 - **Email:** [mhd.aamir026@gmail.com](mailto:mhd.aamir026@gmail.com)
 - **LinkedIn:** [Muhammad Aamir](https://www.linkedin.com/in/muhammad-aamir-alpha/)
-- **GitHub:** [HashLogix](https://github.com/)
 
 ---
 
